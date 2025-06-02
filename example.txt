@@ -1,2 +1,2 @@
-serverport = "9090"
+serverport = "9092"
 spring.application.name = mahi
